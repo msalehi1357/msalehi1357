@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msalehi1357
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently enrolled in Springboard Data Science Track 
 - 💞️ I’m looking to collaborate on codes and projects. 
 - 📫 Can be reached at msalehi1357@yahoo.com
 
